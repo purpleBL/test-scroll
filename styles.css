@@ -54,7 +54,7 @@ body {
 .item1 {
   background: none;
   scroll-snap-align: start;
-  height: 40vh;
+  height: 45vh;
   -webkit-user-select: none;
   touch-action: none;
 }
