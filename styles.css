@@ -54,7 +54,7 @@ body {
 .item1 {
   background: none;
   scroll-snap-align: start;
-  height: 30vh;
+  height: 40vh;
   -webkit-user-select: none;
   touch-action: none;
 }
@@ -62,7 +62,7 @@ body {
 .item2 {
   background: none;
   scroll-snap-align: start;
-  height: 40vh;
+  height: 30vh;
   -webkit-user-select: none;
   touch-action: none;
 }
@@ -71,6 +71,7 @@ body {
   background: none;
   scroll-snap-align: start;
   height: 20vh;
+  -webkit-user-select: none;
 }
 
 .item3 {
