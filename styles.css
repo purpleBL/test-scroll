@@ -6,6 +6,7 @@
 }
 
 body {
+  overflow: hidden;
   background: lightcoral;
 }
 
@@ -55,8 +56,9 @@ body {
 .item1 {
   background: none;
   scroll-snap-align: start;
-  height: 40vh;
+  height: 50vh;
   -webkit-user-select: none;
+  user-select: none;
   touch-action: none;
 }
 
@@ -65,14 +67,16 @@ body {
   scroll-snap-align: start;
   height: 30vh;
   -webkit-user-select: none;
+  user-select: none;
   touch-action: none;
 }
 
 .item-line {
   background: none;
   scroll-snap-align: start;
-  height: 20vh;
+  height: 10vh;
   -webkit-user-select: none;
+  user-select: none;
 }
 
 .item3 {
