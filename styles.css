@@ -6,6 +6,7 @@
 
 body {
   background: lightcoral;
+  touch-action: pan-x pan-y;
 }
 
 .box {
