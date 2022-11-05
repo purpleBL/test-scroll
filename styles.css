@@ -62,7 +62,7 @@ body {
 .item2 {
   background: none;
   scroll-snap-align: start;
-  height: 25vh;
+  height: 30vh;
   -webkit-user-select: none;
   touch-action: none;
 }
