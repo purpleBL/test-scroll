@@ -7,7 +7,7 @@
 
 body {
   overflow: hidden;
-  background: PaleGreen;
+  background: RoyalBlue;
 }
 
 .box {
@@ -97,5 +97,5 @@ body {
 
 .item-title {
   margin-bottom: 30px;
-  border-bottom: 1px solid PaleGreen;
+  border-bottom: 1px solid RoyalBlue;
 }
