@@ -23,9 +23,9 @@ body {
   position: absolute;
   top: -10px;
   right: calc(50% - 50px);
-  height: 3px;
+  height: 4px;
   width: 100px;
-  background: black;
+  background: white;
   border-radius: 20px;
   -webkit-user-select: none;
   user-select: none;
