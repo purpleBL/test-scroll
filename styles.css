@@ -7,7 +7,21 @@
 
 body {
   overflow: hidden;
-  background: turquoise;
+  background: darkturquoise;
+}
+
+
+.bg {
+  display: block;
+  width: 96vw;
+  padding: 2vh 2vw;
+  border-bottom: 1px solid turquoise;
+}
+.bg-title {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px 20px;
+  color: black; 
 }
 
 .box {
@@ -97,4 +111,5 @@ body {
 
 .item-title {
   margin-bottom: 30px;
+  border-bottom: 1px solid darkturquoise;
 }
