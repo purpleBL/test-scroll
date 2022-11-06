@@ -10,19 +10,10 @@ body {
   background: darkturquoise;
 }
 
-
 .bg {
   display: block;
   width: 96vw;
   padding: 2vh 2vw;
-}
-.bg-title {
-  font-size: 26px;
-  text-align: center;
-  padding: 10px 20px;
-  color: black;
-  background: white;
-  border-radius: 30px;
 }
 
 .box {
