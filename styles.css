@@ -15,14 +15,14 @@ body {
   display: block;
   width: 96vw;
   padding: 2vh 2vw;
-  background: white;
-  border-radius: 30px;
 }
 .bg-title {
-  font-size: 30px;
+  font-size: 26px;
   text-align: center;
   padding: 10px 20px;
-  color: black; 
+  color: black;
+  background: white;
+  border-radius: 30px;
 }
 
 .box {
