@@ -13,17 +13,16 @@ body {
 header {
   position: fixed;
   top: 0;
-  right: calc(50% - 48vw);
+  left:0;
   z-index: 30;
   height: 50px;
-  width: 96vw;
-  margin: 1vh 0;
+  width: 100vw;
+  padding: 0 30px;
   background: black;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   color: white;
-  border-radius: 30px;
 }
 
 
